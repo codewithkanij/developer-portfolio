@@ -13,7 +13,7 @@ p{
 }
 section{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
     margin-right: 30px;
 
 }
@@ -38,6 +38,8 @@ section{
     background-image:url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-.sworna{
-    margin-left:9px;
+.dream-big{
+    background-image:url(images/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position: right;
 }
