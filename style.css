@@ -13,15 +13,18 @@ p{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
+    margin-right: 30px;
 
 }
 .half-width{
     width:50%;
     padding-left: 7%;
+    padding-right: 2% ;
     text-align:justify;
 }
 .half-width img{
-    width:80%;
+    width: 80%;
 }
 .link-button{
     text-decoration:none;
@@ -34,4 +37,7 @@ section{
 .top-banner{
     background-image:url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.sworna{
+    margin-left:9px;
 }
