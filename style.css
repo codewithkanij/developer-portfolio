@@ -54,7 +54,7 @@ p{
 #web-dev{
     margin-left: 60px;
     border-left: 7px solid;
-    border-image: linear-gradient(blue,white) ;
+    border-image: linear-gradient(blue,cyan) ;
     border-image-slice:1;
 }
 
